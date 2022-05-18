@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.xinjie.usercenter.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.72 s <<< FAILURE! - in com.xinjie.usercenter.service.UserServiceTest
+userRegister  Time elapsed: 0.147 s  <<< ERROR!
+com.xinjie.usercenter.exception.BusinessException: 请求参数错误
+	at com.xinjie.usercenter.service.UserServiceTest.userRegister(UserServiceTest.java:49)
+

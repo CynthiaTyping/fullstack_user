@@ -1,0 +1,14 @@
+D:\code\register\src\main\java\com\xinjie\usercenter\service\impl\UserServiceImpl.java
+D:\code\register\src\main\java\com\xinjie\usercenter\controller\UserController.java
+D:\code\register\src\main\java\com\xinjie\usercenter\RegisterApplication.java
+D:\code\register\src\main\java\com\xinjie\usercenter\constant\UserConstant.java
+D:\code\register\src\main\java\com\xinjie\usercenter\common\ResultUtils.java
+D:\code\register\src\main\java\com\xinjie\usercenter\common\BaseResponse.java
+D:\code\register\src\main\java\com\xinjie\usercenter\model\domain\request\UserRegisterRequest.java
+D:\code\register\src\main\java\com\xinjie\usercenter\mapper\UserMapper.java
+D:\code\register\src\main\java\com\xinjie\usercenter\model\domain\User.java
+D:\code\register\src\main\java\com\xinjie\usercenter\exception\GlobalExceptionHandler.java
+D:\code\register\src\main\java\com\xinjie\usercenter\model\domain\request\UserLoginRequest.java
+D:\code\register\src\main\java\com\xinjie\usercenter\service\UserService.java
+D:\code\register\src\main\java\com\xinjie\usercenter\common\ErrorCode.java
+D:\code\register\src\main\java\com\xinjie\usercenter\exception\BusinessException.java
